@@ -1,0 +1,3 @@
+const mongoooseConnection = ''
+
+export {mongoooseConnection}
